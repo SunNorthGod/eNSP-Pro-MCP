@@ -1,0 +1,7 @@
+__pycache__/
+server/state.json
+server/state.cookies.json
+recon/
+*.ppm
+*.log
+ap_*_log.txt
